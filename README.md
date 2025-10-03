@@ -1,6 +1,6 @@
-# � Gestionnaire de Tâches Cyberpunk
+# � Gestionnaire de Tâches 
 
-Une application moderne de gestion de tâches développée avec React et TypeScript, dotée d'une interface cyberpunk futuriste et d'animations néon spectaculaires.
+Une application moderne de gestion de tâches développée avec React et TypeScript, dotée d'une interface futuriste et d'animations néon spectaculaires.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB.svg)
@@ -33,7 +33,7 @@ Une application moderne de gestion de tâches développée avec React et TypeScr
 - **Récupération** automatique des données au redémarrage
 - **Gestion d'erreurs** robuste
 
-### 🎨 Interface Cyberpunk
+### 🎨 Interface 
 - **Thème futuriste** avec couleurs néon (violet, bleu, rose, orange)
 - **Effets de verre** (glassmorphism) sur tous les composants
 - **Animations fluides** : lueur néon, pulsations, transitions
@@ -92,7 +92,7 @@ tp-final/
 │   └── vite.svg
 ├── src/
 │   ├── App.tsx      # Composant principal + toute la logique
-│   ├── App.css      # Styles cyberpunk complets
+│   ├── App.css      # Styles  complets
 │   ├── main.tsx     # Point d'entrée React
 │   └── index.css    # Styles de base
 ├── package.json
@@ -138,7 +138,7 @@ type TaskSort = 'newest' | 'oldest' | 'dueDate' | 'alphabetical';
 
 ## 🎨 Guide de Style CSS
 
-### Variables Cyberpunk
+### Variables 
 ```css
 :root {
   --neon-purple: #b834ff;
@@ -235,7 +235,7 @@ window.addEventListener('storage', handleStorageChange);
 
 **Antoine**
 - GitHub: [@antefix1412](https://github.com/antefix1412)
-- Projet: Gestionnaire de Tâches Cyberpunk
+- Projet: Gestionnaire de Tâches 
 - Date: Octobre 2025
 
 ## � Licence
@@ -247,7 +247,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **React Team** pour l'excellente bibliothèque
 - **Vite** pour l'expérience de développement exceptionnelle
 - **CSS-Tricks** pour les inspirations d'animations
-- **Cyberpunk 2077** pour l'inspiration visuelle
+- ** 2077** pour l'inspiration visuelle
 
 ---
 
