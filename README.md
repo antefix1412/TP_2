@@ -235,21 +235,8 @@ window.addEventListener('storage', handleStorageChange);
 
 **Antoine**
 - GitHub: [@antefix1412](https://github.com/antefix1412)
-- Projet: Gestionnaire de Tâches 
-- Date: Octobre 2025
+- Projet: Gestionnaire de Tâches
 
-## � Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 🙏 Remerciements
-
-- **React Team** pour l'excellente bibliothèque
-- **Vite** pour l'expérience de développement exceptionnelle
-- **CSS-Tricks** pour les inspirations d'animations
-- ** 2077** pour l'inspiration visuelle
-
----
 
 💫 **Créé avec passion et beaucoup de néon !** 🌟
 
@@ -431,15 +418,3 @@ npm run test:coverage
 - [ ] **IndexedDB** pour plus de données
 - [ ] **Web Workers** pour les calculs
 - [ ] **Virtual scrolling** pour grandes listes
-
-## 📝 Licence
-
-Ce projet est développé dans un cadre pédagogique.
-
-## 👨‍💻 Auteur
-
-Développé avec ❤️ pour l'apprentissage de React et TypeScript.
-
----
-
-**📞 Support** : Pour toute question sur l'utilisation ou le développement de cette application, consultez la documentation ou créez une issue sur le repository.
