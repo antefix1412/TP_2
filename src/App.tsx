@@ -16,6 +16,11 @@
 import { useState, useEffect, useMemo } from 'react';
 import './App.css';
 
+// Simplified debug App removed to avoid duplicate implementation; using full App implementation below.
+
+/* 
+=== CODE ORIGINAL COMMENTÉ TEMPORAIREMENT ===
+
 // ===== TYPES ET INTERFACES =====
 /**
  * Interface représentant une tâche complète avec toutes ses propriétés
